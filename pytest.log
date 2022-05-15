@@ -1,0 +1,34 @@
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /search?accept-language=ru&format=jsonv2&q=135%2C+Pilkington+Avenue%2C+Maney%2C+Sutton+Coldfield%2C+%D0%91%D0%B8%D1%80%D0%BC%D0%B8%D0%BD%D0%B3%D0%B5%D0%BC%2C+Sutton+Coldfield%2C+%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9+%D0%9C%D0%B8%D0%B4%D0%BB%D0%B5%D0%BD%D0%B4%2C+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%2C+B72+1LH%2C+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F HTTP/1.1" 200 None
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /search?accept-language=ru&format=jsonv2&q=135%2C+Pilkington+Avenue HTTP/1.1" 200 None
+[   DEBUG] В ответе сервера нет ожидаемой координаты - 51.5509835
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /search?accept-language=ru&format=jsonv2&q=135%2C+Pilkington+Avenue%2C+Maney%2C+Sutton+Coldfield%2C+%D0%91%D0%B8%D1%80%D0%BC%D0%B8%D0%BD%D0%B3%D0%B5%D0%BC%2C+Sutton+Coldfield%2C+%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9+%D0%9C%D0%B8%D0%B4%D0%BB%D0%B5%D0%BD%D0%B4%2C+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%2C+B72+1LH%2C+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F HTTP/1.1" 200 None
+[   DEBUG] В ответе сервера нет ожидаемой координаты - 52.5487912
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /search?accept-language=ru&format=jsonv2&q=135%2C+Pilkington+Avenue%2C+Maney%2C+Sutton+Coldfield%2C+%D0%91%D0%B8%D1%80%D0%BC%D0%B8%D0%BD%D0%B3%D0%B5%D0%BC%2C+Sutton+Coldfield%2C+%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9+%D0%9C%D0%B8%D0%B4%D0%BB%D0%B5%D0%BD%D0%B4%2C+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%2C+B72+1LH%2C+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F HTTP/1.1" 200 None
+[   DEBUG] В ответе сервера нет ожидаемой координаты - 52.5509835
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /search?accept-language=ru&format=jsonv2&q= HTTP/1.1" 200 None
+[   DEBUG] В ответе сервера нет ожидаемой координаты - 52.5487921
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /search?accept-language=ru&format=jsonv2&q=136%2C+Pilkington+Avenue%2C+Maney%2C+Sutton+Coldfield%2C+%D0%91%D0%B8%D1%80%D0%BC%D0%B8%D0%BD%D0%B3%D0%B5%D0%BC%2C+Sutton+Coldfield%2C+%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9+%D0%9C%D0%B8%D0%B4%D0%BB%D0%B5%D0%BD%D0%B4%2C+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%2C+B72+1LH%2C+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F HTTP/1.1" 200 None
+[   DEBUG] В ответе сервера нет ожидаемой координаты - 52.5487921
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /reverse?accept-language=ru&format=jsonv2&lat=52.5487921&lon=-1.8164308339635031 HTTP/1.1" 200 None
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /reverse?accept-language=ru&format=jsonv2&lat=23.123781&lon=-6.457847 HTTP/1.1" 200 None
+[   DEBUG] В ответе сервера нет ожидаемого адреса - 135, Pilkington Avenue, Maney, Sutton Coldfield, Бирмингем, Sutton Coldfield, Западный Мидленд, Англия, B72 1LH, Великобритания
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /reverse?accept-language=ru&format=jsonv2&lat=&lon= HTTP/1.1" 400 None
+[   DEBUG] В ответе сервера нет ожидаемого адреса - 135, Pilkington Avenue, Maney, Sutton Coldfield, Бирмингем, Sutton Coldfield, Западный Мидленд, Англия, B72 1LH, Великобритания
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /reverse?accept-language=ru&format=jsonv2&lat=52.5487921&lon= HTTP/1.1" 400 None
+[   DEBUG] В ответе сервера нет ожидаемого адреса - 135, Pilkington Avenue, Maney, Sutton Coldfield, Бирмингем, Sutton Coldfield, Западный Мидленд, Англия, B72 1LH, Великобритания
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /reverse?accept-language=ru&format=jsonv2&lat=&lon=-1.8164308339635031 HTTP/1.1" 400 None
+[   DEBUG] В ответе сервера нет ожидаемого адреса - 135, Pilkington Avenue, Maney, Sutton Coldfield, Бирмингем, Sutton Coldfield, Западный Мидленд, Англия, B72 1LH, Великобритания
+[   DEBUG] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[   DEBUG] https://nominatim.openstreetmap.org:443 "GET /reverse?accept-language=ru&format=jsonv2&lat=52.548&lon=-1.81643 HTTP/1.1" 200 None
+[   DEBUG] В ответе сервера нет ожидаемого адреса - 135, Pilkington Avenue, Maney, Sutton Coldfield, Бирмингем, Sutton Coldfield, Западный Мидленд, Англия, B72 1LH, Великобритания
