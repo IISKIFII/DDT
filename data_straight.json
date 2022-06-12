@@ -28,5 +28,25 @@
     "address": "136, Pilkington Avenue, Maney, Sutton Coldfield, Бирмингем, Sutton Coldfield, Западный Мидленд, Англия, B72 1LH, Великобритания",
     "lat": "52.5487921",
     "lon": "-1.8164308339635031"
+  },
+  {
+    "address": "135, Рilkington Avenue, Maney, Sutton Coldfield, Бирмингем, Sutton Coldfield, Западный Мидленд, Англия, B72 1LH, Великобритания",
+    "lat": "52.5487921",
+    "lon": "-1.8164308339635031"
+  },
+  {
+    "address": "135.0, Pilkington Avenue, Maney, Sutton Coldfield, Sutton Coldfield, Западный Мидленд, Англия, B72 1LH, Великобритания",
+    "lat": "52.5487921",
+    "lon": "-1.8164308339635031"
+  },
+  {
+    "address": "#@@!$$@!$@!#!#@!, Pilk#@@!$$@!$@!#!#@!ington #@@!$$@!$@!#!#@!, Maney, #@@!$$@!$@!#!#@! Coldfield, #@@!$$@!$@!#!#@!, Sutton Coldfield, #@@!$$@!$@!#!#@! Мидленд, Англия, B72 1LH, Великобритания, #@@!$$@!$@!#!#@! ",
+    "lat": "52.5487921",
+    "lon": "-1.8164308339635031"
+  },
+  {
+    "address": "0000000, Pilkington Avenue, Maney, Sutton Coldfield, Бирмингем, Sutton Coldfield, Западный Мидленд, Англия, B72 1LH, Великобритания",
+    "lat": "52.5487921",
+    "lon": "-1.8164308339635031"
   }
 ]
